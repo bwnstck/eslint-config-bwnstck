@@ -1,6 +1,6 @@
 {
-  "name": "eslint-config-acme",
-  "version": "1.0.2",
+  "name": "eslint-config-bwnstck",
+  "version": "0.0.1",
   "description": "ESLint + Prettier config for React (Next.js)",
   "main": "index.js",
   "files": [
@@ -23,7 +23,7 @@
     "eslint-plugin-react": "^7.24.0",
     "eslint-plugin-react-hooks": "^4.2.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
-    "prettier": "^2.3.1"
+    "prettier": "^2.5.0"
   },
   "keywords": [
     "config",
@@ -35,14 +35,14 @@
     "nextjs",
     "prettier"
   ],
-  "author": "Mykhaylo Ryechkin <mykhaylo.ryechkin+npm@gmail.com>",
+  "author": "Benjamin Weinstock <benjamin@weinstock.it>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mryechkin/eslint-config-acme.git"
+    "url": "git+https://github.com/bwnstck/eslint-config-bwnstck.git"
   },
   "bugs": {
-    "url": "https://github.com/mryechkin/eslint-config-acme/issues"
+    "url": "https://github.com/bwnstck/eslint-config-bwnstck/issues"
   },
-  "homepage": "https://github.com/mryechkin/eslint-config-acme#readme"
+  "homepage": "https://github.com/bwnstck/eslint-config-bwnstck#readme"
 }
